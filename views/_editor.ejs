@@ -1,0 +1,20 @@
+<div class="form-group row">
+    <label class="col-form-label col-sm-2" for="Name">Name</label>
+    <div class="col-sm-8">
+      <input class="form-control" name="Name" value="<%= model.Name %>" />
+    </div>
+  </div>
+  
+  <div class="form-group row">
+    <label class="col-form-label col-sm-2" for="Region">Region</label>
+    <div class="col-sm-8">
+      <input class="form-control" name="Region" value="<%= model.Region %>" />
+    </div>
+  </div>
+  
+  <div class="form-group row">
+    <label class="col-form-label col-sm-2" for="Feedback">Feedback</label>
+    <div class="col-sm-10">
+      <textarea class="form-control" cols="20" name="Feedback" maxlength="32000" rows="7"><%= model.Feedback %></textarea>
+    </div>
+  </div>
