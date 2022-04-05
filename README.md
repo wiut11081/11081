@@ -14,4 +14,4 @@ In this web app you can find list of restaurants, and read feedback about them.
 
 ## Links
 - GitHub: https://github.com/wiut11081/11081
-- Glitch: 
+- Glitch: https://boundless-heady-acoustic.glitch.me
